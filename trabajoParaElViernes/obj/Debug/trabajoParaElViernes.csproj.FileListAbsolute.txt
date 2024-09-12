@@ -1,0 +1,7 @@
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\bin\Debug\trabajoParaElViernes.exe.config
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\bin\Debug\trabajoParaElViernes.exe
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\bin\Debug\trabajoParaElViernes.pdb
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\obj\Debug\trabajoParaElViernes.csproj.AssemblyReference.cache
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\obj\Debug\trabajoParaElViernes.csproj.CoreCompileInputs.cache
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\obj\Debug\trabajoParaElViernes.exe
+C:\Users\mamol\source\repos\trabajoParaElViernes\trabajoParaElViernes\obj\Debug\trabajoParaElViernes.pdb
